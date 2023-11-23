@@ -20,4 +20,4 @@ cd FIRE-009
 
 python3 Fire.py
 
-Note: (This Tools Are Free)
+# Note: (This Tools Are Free)
